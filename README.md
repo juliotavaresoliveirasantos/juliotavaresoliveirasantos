@@ -3,7 +3,9 @@
 <h3 align="center">🚀 Desenvolvedor Backend em formação | Foco em Java & Ecossistema</h3>
 
 ---
+<div align="center">
 ![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/viniped?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=1&animation_delay=0.05&animation_amplitude=20&animation_frequency=0.5&animation_wave_center=10_0&format=svg&weeks=30&theme=pink)
+</div>
 
 ## 👨‍💻 Sobre mim
 
@@ -59,11 +61,7 @@
 ## 📊 Estatísticas GitHub
 
 <div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=juliotavaresoliveirasantos&show_icons=true&theme=tokyonight&hide_border=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=juliotavaresoliveirasantos&layout=compact&theme=tokyonight&hide_border=true)
-
+![juliotavaresoliveirasantos's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=juliotavaresoliveirasantos&theme=default&show_icons=true&hide_border=false&layout=compact)
 </div>
 
 ---
